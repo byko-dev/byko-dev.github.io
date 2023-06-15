@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3023e863.css",
-    "main.js": "/static/js/main.1c023ce6.js",
+    "main.js": "/static/js/main.128b760e.js",
     "static/js/27.f826509c.chunk.js": "/static/js/27.f826509c.chunk.js",
     "static/media/ships2.png": "/static/media/ships2.28749847c41279901206.png",
     "static/media/me.png": "/static/media/me.4bcbc317bc34fbc2d984.png",
@@ -29,17 +29,21 @@
     "static/media/androidJarlvpn.png": "/static/media/androidJarlvpn.67f7adffaedd128bf1f9.png",
     "static/media/jarl7.png": "/static/media/jarl7.5fbc2cda8c1dfd0b2ca5.png",
     "static/media/print6.png": "/static/media/print6.3f82920c3e4962c183c1.png",
+    "static/media/pay1.png": "/static/media/pay1.29ae8be1be360c50729a.png",
+    "static/media/pay3.png": "/static/media/pay3.6dbd76dc4a889ea427fc.png",
     "static/media/print3.png": "/static/media/print3.e4b20d724675cd44e27f.png",
     "static/media/winPass1.png": "/static/media/winPass1.879fb3d73d16d023225f.png",
     "static/media/androidPass.png": "/static/media/androidPass.cf0d05995fc0d258a0f8.png",
     "static/media/print2.png": "/static/media/print2.39d23f372f1c410bd2a8.png",
+    "static/media/pay2.png": "/static/media/pay2.f9510e111015fda48633.png",
     "static/media/g_photos1.png": "/static/media/g_photos1.da5b3652a1a66653217d.png",
     "static/media/g_photos5.png": "/static/media/g_photos5.0e15c2aaaf0b4aff67bf.png",
+    "static/media/pay4.png": "/static/media/pay4.276b42f8ee95d84ba954.png",
     "static/media/login.png": "/static/media/login.bf7debfb6178a3ba563e.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.3023e863.css",
-    "static/js/main.1c023ce6.js"
+    "static/js/main.128b760e.js"
   ]
 }
